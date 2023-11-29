@@ -1,0 +1,33 @@
+body{
+    background: lightgreen;
+}
+
+#score{
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+#time{
+    font-size: 20px;
+    float: right;
+    margin-right: 20px;
+}
+
+#esboco{
+    font-size: 20px;
+    color: red;
+}
+
+#showSketch{
+    float: right;
+}
+
+canvas{
+    border-radius: 20px;
+    margin-top: 150px;
+}
+
+p, span{
+    padding-top: 10px;
+    font-size: 25px;
+}
